@@ -31,7 +31,7 @@ else if(a=='B' && b=='X')
 else if(a=='B' && b=='Y')
 {
     sum4=2+3;
-}
+} 
 else if(a=='B' && b=='Z')
 {
     sum5=3+6;
