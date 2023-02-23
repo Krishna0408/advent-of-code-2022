@@ -44,7 +44,7 @@ else if(a=='C' && b=='Y')
 {
     sum7=2+0;
 }
-else if(a=='C' && b=='Z')
+else if(a=='C' && b=='Z') 
 {
     sum8=3+3;
 }
