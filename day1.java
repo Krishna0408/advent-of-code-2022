@@ -12,7 +12,7 @@ public class day1{
             for(j=0;j<a[i].length;j++)
             {
                 sum=sum+a[i][j];
-                b[i]=sum;  
+                b[i]=sum;   
             }	
             sum=0;
         }
