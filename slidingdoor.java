@@ -10,7 +10,7 @@ public class slidingdoor {
         }
         int k=sc.nextInt();
         for (int i=0;i<=n-k;i++){
-            int max = a[i];
+            int max = a[i]; 
             for(int j=i; j<i+k;j++){
                 if (a[j] > max)
                     max = a[j];
