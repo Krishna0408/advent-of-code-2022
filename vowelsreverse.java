@@ -6,7 +6,7 @@ class vowelsreverse{
         char temp;
         String a=sc.nextLine();
         char n[]=a.toCharArray();
-        for(int i=0;i<n.length;i++){
+        for(int i=0;i<n.length;i++){ 
             for(int j=i+1;j<n.length;j++){
                 if(n[i]=='a' || n[i]=='e' || n[i]=='i' || n[i]=='o' || n[i]=='u'){
                 if(n[j]=='a' || n[j]=='e' || n[j]=='i' || n[j]=='o' || n[j]=='u'){
