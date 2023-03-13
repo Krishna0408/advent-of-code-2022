@@ -9,7 +9,7 @@ public class bigsmallbig {
         for (int i=0;i<n;i++) {
             a[i]=sc.nextInt();
         }
-        Arrays.sort(a);
+        Arrays.sort(a); 
         int[] a1=Arrays.copyOfRange(a,0, n/2);
         int[] a2=Arrays.copyOfRange(a,n/2, n);
         int[] a3=new int[n/2];
