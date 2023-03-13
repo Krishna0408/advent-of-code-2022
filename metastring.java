@@ -5,7 +5,7 @@ class metastring
     {
         Scanner sc = new Scanner(System.in);
         String str1= sc.nextLine();
-        String str2= sc.nextLine();
+        String str2= sc.nextLine(); 
         char ch1[] = str1.toCharArray();
         char ch2[] = str2.toCharArray();
         int n=ch1.length;
